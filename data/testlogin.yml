@@ -1,0 +1,22 @@
+
+---
+"case_name": "登录成功用例"
+"url": "/authorizations/"
+"data":
+  username: "python"
+  password: "12345678"
+"code": 200
+"expect_body":
+  "username": "python"
+  "user_id": 1
+
+---
+"case_name": "登录失败用例"
+"url": "/authorizations/"
+"data":
+  username: "test123"
+  password: "111"
+"code": 400
+"expect_body":
+  "non_field_errors":
+    - "无法使用提供的认证信息登录。"

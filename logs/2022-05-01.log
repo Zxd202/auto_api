@@ -1,0 +1,25 @@
+2022-05-01 14:16:59,517-Requests-DEBUG-发送post请求
+2022-05-01 14:16:59,901-Requests-DEBUG-发送post请求
+2022-05-01 14:39:44,741-Requests-DEBUG-发送post请求
+2022-05-01 14:39:45,583-Requests-DEBUG-发送post请求
+2022-05-01 14:40:31,206-Requests-DEBUG-发送post请求
+2022-05-01 14:40:31,894-Requests-DEBUG-发送post请求
+2022-05-01 14:41:15,488-Requests-DEBUG-发送post请求
+2022-05-01 14:41:16,150-Requests-DEBUG-发送post请求
+2022-05-01 14:41:16,270-AssertUtil-ERROR-code error,code is 400,expected_code is 401
+2022-05-01 14:45:06,933-Requests-DEBUG-发送post请求
+2022-05-01 14:45:07,759-AssertUtil-ERROR-不包含或者body是错误，body is "{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InB5dGhvbiIsInVzZXJfaWQiOjEsImVtYWlsIjoiOTUyNjczNjM4QHFxLmNvbSIsImV4cCI6MTY1MTQ3Mzc1M30.6liAxkAh555O2MJf3vaahpZF6jiBKG3mvTNwul_8tkk', 'username': 'python', 'user_id': 1}",expected_body is "user_id": 1,"username": "python"
+2022-05-01 14:45:09,045-Requests-DEBUG-发送post请求
+2022-05-01 14:45:09,146-AssertUtil-ERROR-不包含或者body是错误，body is "{'non_field_errors': ['\u65e0\u6cd5\u4f7f\u7528\u63d0\u4f9b\u7684\u8ba4\u8bc1\u4fe1\u606f\u767b\u5f55\u3002']}",expected_body is "user_id": 1,"username": "python"
+2022-05-01 14:47:24,068-Requests-DEBUG-发送post请求
+2022-05-01 14:47:24,892-AssertUtil-ERROR-不包含或者body是错误，body is "{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InB5dGhvbiIsInVzZXJfaWQiOjEsImVtYWlsIjoiOTUyNjczNjM4QHFxLmNvbSIsImV4cCI6MTY1MTQ3Mzg5MH0.4jb3_hImFwm-RdBDDdhfMAXQp3RM0Y-6IAgB4ZvG-KU', 'username': 'python', 'user_id': 1}",expected_body is "username": "python", "user_id": 1
+2022-05-01 14:47:26,477-Requests-DEBUG-发送post请求
+2022-05-01 14:47:26,612-AssertUtil-ERROR-不包含或者body是错误，body is "{'non_field_errors': ['\u65e0\u6cd5\u4f7f\u7528\u63d0\u4f9b\u7684\u8ba4\u8bc1\u4fe1\u606f\u767b\u5f55\u3002']}",expected_body is "user_id": 1,"username": "python"
+2022-05-01 14:48:42,830-Requests-DEBUG-发送post请求
+2022-05-01 14:48:43,554-Requests-DEBUG-发送post请求
+2022-05-01 14:51:30,947-Requests-DEBUG-发送post请求
+2022-05-01 14:51:31,818-AssertUtil-ERROR-不包含或者body是错误，body is "{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InB5dGhvbiIsInVzZXJfaWQiOjEsImVtYWlsIjoiOTUyNjczNjM4QHFxLmNvbSIsImV4cCI6MTY1MTQ3NDEzN30.g7MkEHtOL9R5grlIrndLf0PCZ0hk-d-y6sRpccW5bgM', 'username': 'python', 'user_id': 1}",expected_body is {'username': 'python', 'user_id': 1}
+2022-05-01 14:51:33,285-Requests-DEBUG-发送post请求
+2022-05-01 14:51:33,432-AssertUtil-ERROR-不包含或者body是错误，body is "{'non_field_errors': ['\u65e0\u6cd5\u4f7f\u7528\u63d0\u4f9b\u7684\u8ba4\u8bc1\u4fe1\u606f\u767b\u5f55\u3002']}",expected_body is {'non_field_errors': ['无法使用提供的认证信息登录。']}
+2022-05-01 14:53:03,779-Requests-DEBUG-发送post请求
+2022-05-01 14:53:04,447-Requests-DEBUG-发送post请求

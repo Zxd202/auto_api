@@ -1,0 +1,22 @@
+2022-04-24 21:39:46,734-Requests-DEBUG-发送get请求
+2022-04-24 21:39:46,852-Requests-DEBUG-发送get请求
+2022-04-24 21:39:47,476-Requests-DEBUG-发送post请求
+2022-04-24 21:39:48,315-Requests-DEBUG-发送post请求
+2022-04-24 21:40:01,595-Requests-DEBUG-发送get请求
+2022-04-24 21:40:01,725-AssertUtil-ERROR-code error,code is 200,expected_code is 201
+2022-04-24 21:40:02,769-Requests-DEBUG-发送get请求
+2022-04-24 21:40:03,582-Requests-DEBUG-发送post请求
+2022-04-24 21:40:04,222-Requests-DEBUG-发送post请求
+2022-04-24 21:42:58,049-Requests-DEBUG-发送get请求
+2022-04-24 21:42:58,320-Requests-DEBUG-发送get请求
+2022-04-24 21:42:59,019-Requests-DEBUG-发送post请求
+2022-04-24 21:42:59,845-Requests-DEBUG-发送post请求
+2022-04-24 21:44:32,438-Requests-DEBUG-发送get请求
+2022-04-24 21:44:32,591-AssertUtil-ERROR-不包含或者body是错误，body is {"id": 1, "username": "python", "mobile": "17701397029", "email": "952673638@qq.com", "email_active": true},expected_body is 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'
+2022-04-24 21:44:33,636-Requests-DEBUG-发送get请求
+2022-04-24 21:44:34,298-Requests-DEBUG-发送post请求
+2022-04-24 21:44:34,702-Requests-DEBUG-发送post请求
+2022-04-24 21:45:49,587-Requests-DEBUG-发送get请求
+2022-04-24 21:45:49,734-Requests-DEBUG-发送get请求
+2022-04-24 21:45:50,308-Requests-DEBUG-发送post请求
+2022-04-24 21:45:50,817-Requests-DEBUG-发送post请求

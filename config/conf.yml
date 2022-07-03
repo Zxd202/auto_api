@@ -1,0 +1,15 @@
+
+
+BASE:
+  #log等级
+  log_level: "debug"
+  #日志文件扩展名
+  log_extension: ".log"
+  test:
+   url: "http://211.103.136.242:8064"
+
+email:
+  smtpserver: "smtp.163.com"
+  username: "发送者的邮箱账号"
+  password: "发送者的邮箱密码"
+  receiver: "接收邮件的邮箱账号"
